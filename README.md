@@ -1,2 +1,2 @@
-# leaflet-challenge
-Using LeafLet to Visualize USGS Earthquake Data
+# Leaflet Challenge
+Using the Leaflet Javascript Library to Visualize USGS Earthquake Data
